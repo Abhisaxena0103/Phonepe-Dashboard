@@ -19,3 +19,6 @@ The analysis was performed using Python for data manipulation and analysis, SQL 
 5. Insights & Key Findings
 
 The project highlights significant growth in digital payments, identifies top-performing states and districts, and reveals seasonal and yearly transaction trends. These insights help understand consumer behavior and the expansion of digital payment platforms in India.
+
+6. Screenshot/demos
+show what the dashboard looks like - ![Alt text](https://github.com/Abhisaxena0103/Phonepe-Dashboard/blob/main/Phonepe%20Dashboard.png)
